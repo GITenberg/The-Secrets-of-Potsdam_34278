@@ -1,0 +1,39 @@
+_repo: The-Secrets-of-Potsdam_34278
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Le Queux, William
+    aliases:
+    - Queux, William Le
+    - Queux, William Tufnell Le
+    birthdate: 1864
+    deathdate: 1927
+    gutenberg_agent_id: '3141'
+    url: http://www.gutenberg.org/2009/agents/3141
+    wikipedia: http://en.wikipedia.org/wiki/William_Le_Queux
+description: You will recollect our first meeting on that sunny afternoon when, in
+  the stuffy, nauseating atmosphere of perspiration and a hundred Parisian perfumes,
+  we sat next each other at the first roulette table on the right as you enter the
+  rooms at Monte Carlo? Ah! how vivid it is still before my eyes, the jingle of gold
+  and the monotonous cries of the croupiers. Ah! my dear friend! In those pre-war
+  days the Riviera-that sea-lapped Paradise, with its clear, open sky and sapphire
+  Mediterranean, grey-green olives and tall flowering aloes, its gorgeous blossoms,
+  and its merry, dark-eyed populace who li.
+gutenberg_issued: '2010-11-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34278'
+  lccn: '17014689'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Germany -- Court and courtiers'
+- !lcc 'DD'
+title: "The Secrets of Potsdam\r\nA Startling Exposure of the Inner Life of the Courts\
+  \ of the Kaiser and Crown-Prince"
+url: http://www.gutenberg.org/ebooks/34278
